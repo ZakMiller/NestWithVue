@@ -22,10 +22,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Stay in touch
+## Additional Info
 
 - Author - [Zak Miller](https://zakmiller.com)
-
-## License
-
-  This is [MIT licensed](LICENSE).
+- License - [MIT licensed](LICENSE).
+- [Blog post](https://www.zakmiller.com/posts/serve-vue-with-nest/).
