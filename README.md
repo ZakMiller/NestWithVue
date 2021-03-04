@@ -7,7 +7,7 @@ A sample demonstrating serving a VueJS website from a NestJS backend.
 ```bash
 $ npm install
 # Install Vue dependencies
-cd client && npm i && cd ..
+$ cd client && npm i && cd ..
 $ npm run build --prefix client
 ```
 
